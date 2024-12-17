@@ -14,6 +14,7 @@ cd output/Debug/
 mv bin Debug
 mv Debug ../../../lib/
 cd 到工程根目录
+修改CMakeLists.txt 中依敕库的路径
 mkdir build
 cd build
 cmake ..
